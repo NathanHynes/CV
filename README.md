@@ -50,17 +50,23 @@ Music Technology BA - Upper second-class honours.
 
 ### <a name="experience">Experience</a>
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Cambridge Audio** (July 2016 to August 2019)    
+*Technical Support Agent*  
+- Worked with a small team of technical support and customer care agents. I provided worldwide support to distributors, dealers and customers.
+- Had to troubleshoot customer queries through asking a series of open-ended and close-ended questions to understand the exact issue the user was experiencing. Whether this was a learning experience or a complex network related issue.
+- Solely maintained the support site HTML/CSS/Javascript script. Regularly updating themes and improving user experience/journey by streamlining the user interface.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Apple Inc** (July 2014 to July 2016)   
+*Genius*  
+- I worked to provide solutions for technical software based issues and repairing hardware issues.
+- Presenting an expert knowledge on a range of products and providing customers with a number of different solutions for their issues.
+- Had to be able to communicate technical information effectively to others and teach customers how to use a range of different products and software.
 
 ***
 
 ### <a name="interests">Interests</a>
 
  - **Music** - I play a very active role in my band, [Finish Flag](https://bit.ly/2VYK3MR), not only do I play bass but I also record and mix all of our music on Logic Pro X.
- - **Reading**
+ - **Reading** - My 3 favourite books are *American Psycho*, *The Shining*, *So You've Been Publicly Shamed*
+ - **Running**
+ - **Mindfulness**
