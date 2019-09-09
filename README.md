@@ -1,8 +1,13 @@
 ## Nathan Hynes
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+***
+[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
-## Skills
+My background is mainly in Technical Support, which has provided me with strong troubleshooting and problem-solving skills.
+
+Recently however I have wanted a fresh start. This has lead me to begin a 16 week intensive software development bootcamp at [Makers Academy](https://github.com/makersacademy). Here I hope to hone and make use of the skills I have developed in my previous working experience to grow from an interested amateur coder into a competent and confident junior developer.
+
+## <a name="skills">Skills</a>
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
@@ -21,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy (August 2019 to December 2019)
 A 16 week course at one of London's leading software development bootcamps, focusing on:
@@ -31,14 +36,14 @@ A 16 week course at one of London's leading software development bootcamps, focu
 - RSpec, Jasmine
 
 #### Lancaster University (2010 to 2013)
-Music Technology BA - Upper second-class honors.
+Music Technology BA - Upper second-class honours.
 - Sound Design
 - Composition
-- Studio engineering and recording pracitices
+- Studio engineering and recording practices
 - Acoustics and Psychoacoustics
 
 
-## Experience
+## <a name="experience">Experience</a>
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
@@ -48,6 +53,7 @@ Music Technology BA - Upper second-class honors.
 *Your job title*  
 - Any experience relevent to software development
 
-## Hobbies
+## <a name="interests">Interests</a>
 
-Any cool stuff that makes you a super part of a software development team
+ - Music - I play a very active role in my band, [Finish Flag](https://bit.ly/2VYK3MR), not only do I play bass but I also record and mix all of our music on Logic Pro X.
+ - Reading
