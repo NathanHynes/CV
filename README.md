@@ -7,6 +7,8 @@ My background is mainly in Technical Support, which has provided me with strong 
 
 Recently however I have wanted a fresh start. This has lead me to begin a 16 week intensive software development bootcamp at [Makers Academy](https://github.com/makersacademy). Here I hope to hone and make use of the skills I have developed in my previous working experience to grow from an interested amateur coder into a competent and confident junior developer.
 
+***
+
 ## <a name="skills">Skills</a>
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -26,6 +28,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+***
+
 ## <a name="education">Education</a>
 
 #### Makers Academy (August 2019 to December 2019)
@@ -42,6 +46,7 @@ Music Technology BA - Upper second-class honours.
 - Studio engineering and recording practices
 - Acoustics and Psychoacoustics
 
+***
 
 ## <a name="experience">Experience</a>
 
@@ -52,6 +57,8 @@ Music Technology BA - Upper second-class honours.
 **Company Name** (start_date to end_date)   
 *Your job title*  
 - Any experience relevent to software development
+
+***
 
 ## <a name="interests">Interests</a>
 
