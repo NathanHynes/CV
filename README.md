@@ -9,7 +9,7 @@ Recently however I have wanted a fresh start. This has lead me to begin a 16 wee
 
 ***
 
-## <a name="skills">Skills</a>
+### <a name="skills">Skills</a>
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
@@ -30,7 +30,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ***
 
-## <a name="education">Education</a>
+### <a name="education">Education</a>
 
 #### Makers Academy (August 2019 to December 2019)
 A 16 week course at one of London's leading software development bootcamps, focusing on:
@@ -48,7 +48,7 @@ Music Technology BA - Upper second-class honours.
 
 ***
 
-## <a name="experience">Experience</a>
+### <a name="experience">Experience</a>
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
@@ -60,7 +60,7 @@ Music Technology BA - Upper second-class honours.
 
 ***
 
-## <a name="interests">Interests</a>
+### <a name="interests">Interests</a>
 
- - Music - I play a very active role in my band, [Finish Flag](https://bit.ly/2VYK3MR), not only do I play bass but I also record and mix all of our music on Logic Pro X.
- - Reading
+ - **Music** - I play a very active role in my band, [Finish Flag](https://bit.ly/2VYK3MR), not only do I play bass but I also record and mix all of our music on Logic Pro X.
+ - **Reading**
