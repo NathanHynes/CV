@@ -1,4 +1,4 @@
-## Your Name
+## Nathan Hynes
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -23,22 +23,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
+#### Makers Academy (August 2019 to December 2019)
+A 16 week course at one of London's leading software development bootcamps, focusing on:
+- Test Driven Development, with an emphasis on pair programming and working in an agile way.
+- XP values
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Lancaster University (2010 to 2013)
+Music Technology BA - Upper second-class honors.
+- Sound Design
+- Composition
+- Studio engineering and recording pracitices
+- Acoustics and Psychoacoustics
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
