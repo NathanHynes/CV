@@ -11,22 +11,9 @@ Recently however I have wanted a fresh start. This has lead me to begin a 16 wee
 
 ### <a name="skills">Skills</a>
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- **Problem solving/troubleshooting** - My background is mainly in Technical Support, which has provided me with strong troubleshooting and problem-solving skills. I believe this is key when it comes to coding and web development. It allows you to take a step back from the task or issue (especially when things are going wrong), find a fresh approach and apply critical thinking to provide a solution.
+- **Attention to detail** - Whether this be when playing/recording music or coding, I have developed a keen eye for detail. This helps when looking at the bigger picture and understanding how each part of the script should work together and also when looking for those bugs in your code.
+- **Excellent communicator** -  In both my previous jobs I have had to ensure that I have very strong written and verbal communication skills. This is because I often have to simplify technical and complex information to make it more accessible for end users and clients. This will help when writing my code as I will be able to describe clearly what I am doing and how my program works.
 
 ***
 
@@ -54,7 +41,7 @@ Music Technology BA - Upper second-class honours.
 *Technical Support Agent*  
 - Worked with a small team of technical support and customer care agents. I provided worldwide support to distributors, dealers and customers.
 - Had to troubleshoot customer queries through asking a series of open-ended and close-ended questions to understand the exact issue the user was experiencing. Whether this was a learning experience or a complex network related issue.
-- Solely maintained the support site HTML/CSS/Javascript script. Regularly updating themes and improving user experience/journey by streamlining the user interface.
+- Solely maintained the support site HTML/CSS/Javascript scripts. Regularly updating themes and improving user experience/journey by streamlining the user interface.
 
 **Apple Inc** (July 2014 to July 2016)   
 *Genius*  
