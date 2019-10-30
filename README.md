@@ -1,6 +1,6 @@
 # Nathan Hynes
 
-<p style="text-align: center;">[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |</p>
+<div style="text-align: center;">[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |</div>
 
 My background is mainly in Technical Support, which has provided me with strong troubleshooting and problem-solving skills.
 
