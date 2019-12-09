@@ -6,20 +6,30 @@ My background is mainly in Technical Support, which has provided me with strong 
 
 Recently however I have wanted a fresh start. This has lead me to begin a 16 week intensive software development bootcamp at [Makers Academy](https://github.com/makersacademy). Here I hope to hone and make use of the skills I have developed in my previous working experience to grow from an interested amateur coder into a competent and confident junior developer.
 
-***
+## <a name="skills">Skills</a>
 
-### <a name="skills">Skills</a>
+### Key Coding Skills
 
-- **Problem solving/troubleshooting** - My background is mainly in Technical Support, which has provided me with strong troubleshooting and problem-solving skills. I believe this is key when it comes to coding and web development. It allows you to take a step back from the task or issue (especially when things are going wrong), find a fresh approach and apply critical thinking to provide a solution.
-- **Attention to detail** - Whether this be when playing/recording music or coding, I have developed a keen eye for detail. This helps when looking at the bigger picture and understanding how each part of the script should work together and also when looking for those bugs in your code.
-- **Excellent communicator** -  In both my previous jobs I have had to ensure that I have very strong written and verbal communication skills. This is because I often have to simplify technical and complex information to make it more accessible for end users and clients. This will help when writing my code as I will be able to describe clearly what I am doing and how my program works.
+* Ruby, Rails, RSpec, Sinatra.
+* JavaScript, React, jQuery, Jasmine, Cypress.
+* Travis CI, Heroku, Git, Html, CSS.
+* Agile and XP values.
+* Consistent TDD and debugging processes.
 
-***
+### Problem solving/troubleshooting
+* My background is mainly in Technical Support, which has provided me with strong troubleshooting and problem-solving skills. I believe this is key when it comes to coding and web development. It allows you to take a step back from the task or issue (especially when things are going wrong), find a fresh approach and apply critical thinking to provide a solution.
 
-### <a name="education">Education</a>
+### Attention to detail
+* Whether this be when playing/recording music or coding, I have developed a keen eye for detail. This helps when looking at the bigger picture and understanding how each part of the script should work together and also when looking for those bugs in your code.
+
+## Excellent communicator
+* In both my previous jobs I have had to ensure that I have very strong written and verbal communication skills. This is because I often have to simplify technical and complex information to make it more accessible for end users and clients. This will help when writing my code as I will be able to describe clearly what I am doing and how my program works.
+
+## <a name="education">Education</a>
 
 #### Makers Academy (August 2019 to December 2019)
 A 16 week course at one of London's leading software development bootcamps, focusing on:
+- OOP, MVC, DDD
 - Test Driven Development, with an emphasis on pair programming and working in an agile way.
 - XP values
 - Ruby, Rails, JavaScript
@@ -34,7 +44,7 @@ Music Technology BA - Upper second-class honours.
 
 ***
 
-### <a name="experience">Experience</a>
+## <a name="experience">Experience</a>
 
 **Cambridge Audio** (July 2016 to August 2019)    
 *Technical Support Agent*  
