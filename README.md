@@ -7,6 +7,7 @@
 [Education](#education) | 
 [Experience](#experience) | 
 [Interests](#interests) | 
+[Links](#links) | 
 
 </div>
 
@@ -70,3 +71,7 @@ Music Technology BA - Upper second-class honours.
  - **Reading** - My 3 favourite books are *American Psycho*, *The Shining*, *So You've Been Publicly Shamed*
  - **Running**
  - **Mindfulness**
+ 
+ ## <a name="links">Links</a>
+ 
+ <div align="center"><a href="https://www.linkedin.com/in/nathan-hynes-57b26760"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></div>
