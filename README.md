@@ -22,7 +22,7 @@ Recently however I have wanted a fresh start. This has lead me to begin a 16 wee
 ### Attention to detail
 * Whether this be when playing/recording music or coding, I have developed a keen eye for detail. This helps when looking at the bigger picture and understanding how each part of the script should work together and also when looking for those bugs in your code.
 
-## Excellent communicator
+### Excellent communicator
 * In both my previous jobs I have had to ensure that I have very strong written and verbal communication skills. This is because I often have to simplify technical and complex information to make it more accessible for end users and clients. This will help when writing my code as I will be able to describe clearly what I am doing and how my program works.
 
 ## <a name="education">Education</a>
@@ -42,8 +42,6 @@ Music Technology BA - Upper second-class honours.
 - Studio engineering and recording practices
 - Acoustics and Psychoacoustics
 
-***
-
 ## <a name="experience">Experience</a>
 
 **Cambridge Audio** (July 2016 to August 2019)    
@@ -58,9 +56,7 @@ Music Technology BA - Upper second-class honours.
 - Presenting an expert knowledge on a range of products and providing customers with a number of different solutions for their issues.
 - Had to be able to communicate technical information effectively to others and teach customers how to use a range of different products and software.
 
-***
-
-### <a name="interests">Interests</a>
+## <a name="interests">Interests</a>
 
  - **Music** - I play a very active role in my band, [Finish Flag](https://bit.ly/2VYK3MR), not only do I play bass but I also record and mix all of our music on Logic Pro X.
  - **Reading** - My 3 favourite books are *American Psycho*, *The Shining*, *So You've Been Publicly Shamed*
