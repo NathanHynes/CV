@@ -11,9 +11,11 @@
 
 </div>
 
-My background is mainly in Technical Support, which has provided me with strong troubleshooting and problem-solving skills.
+I am a fullstack developer who has have just completed a 16 week course at one of the most selective dev bootcamps in London. I still remember the first time I opened inspect on a website and was blown away by how those lines of code could create a fully interactive wepage. Since then I vowed that I would strive to understand how these languages work and ultimately be able to create these type of sites/apps to a high standard for myself. 
 
-Recently however I have wanted a fresh start. This has lead me to begin a 16 week intensive software development bootcamp at [Makers Academy](https://github.com/makersacademy). Here I hope to hone and make use of the skills I have developed in my previous working experience to grow from an interested amateur coder into a competent and confident junior developer.
+This keen desire to work as a software developer is backed by a 5 year career in Technical Support, where I have worked for one of the largest companies worldwide, **Apple**. Having to work in this fast paced environment, where I served and solved clients issues in a 10 minute face-to-face consultation, meant I had to develop quick coherent troubleshooting steps and processes to save time whilst ensuring the clients issue was solved. This methodical approach to issues, as well as strong problem solving skills, has really helped in my transition to software developer especially when planning and breaking down a problem to find a program to solve it.
+
+Recently however I have been seeking a fresh start and to follow a career path I can develop and grow in and one I have a keen enthausiam for. This all lead me to joining and graduating [Makers Academy](https://github.com/makersacademy). Here I was able to hone and make use of the skills I have developed in my previous working experience to grow from an interested amateur coder into a competent and confident fullstack developer eager to embark on this new career path.
 
 ## <a name="skills">Skills</a>
 
@@ -21,18 +23,25 @@ Recently however I have wanted a fresh start. This has lead me to begin a 16 wee
 
 * Ruby, Rails, RSpec, Sinatra.
 * JavaScript, React, jQuery, Jasmine, Cypress.
-* Travis CI, Heroku, Git, Html, CSS.
+* Travis CI, Heroku, Git, HTML, CSS.
 * Agile and XP values.
 * Consistent TDD and debugging processes.
 
 ### Problem solving/troubleshooting
-* My background is mainly in Technical Support, which has provided me with strong troubleshooting and problem-solving skills. I believe this is key when it comes to coding and web development. It allows you to take a step back from the task or issue (especially when things are going wrong), find a fresh approach and apply critical thinking to provide a solution.
+* My background in Technical Support has provided me with strong troubleshooting and problem-solving skills. I love being provided with a problem/issue and finding ways to solve them. I believe this is key when it comes to coding and web development especially when TDD and during planning. It allows you to take a step back from the task or issue (especially when things are going wrong), find a fresh approach and apply critical thinking to provide a solution.
 
 ### Attention to detail
-* Whether this be when playing/recording music or coding, I have developed a keen eye for detail. This helps when looking at the bigger picture and understanding how each part of the script should work together and also when looking for those bugs in your code.
+* Whether this be when playing/recording music or coding, I have developed a keen eye for detail. This helps when looking at the bigger picture and understanding how each part of the script should work together and also when debugging software.
 
 ### Excellent communicator
-* In both my previous jobs I have had to ensure that I have very strong written and verbal communication skills. This is because I often have to simplify technical and complex information to make it more accessible for end users and clients. This will help when writing my code as I will be able to describe clearly what I am doing and how my program works.
+* In both my previous jobs I have had to ensure that I have very strong written and verbal communication skills. This is because I often have to simplify technical and complex information to make it more accessible for end users and clients. This has helped when writing code as I have been able to describe clearly what I am doing and how my program works.Furthermore it has been invaluable while pairing and during group projects to ensure a strong working dynamic.
+
+## <a name="projects">Current Projects</a>
+
+Project Name | Description | Tech Used | Process | Test Suites/CIs/CDs Employed
+--- | --- | --- | --- | ---
+[Synesthesia-Beatz](https://github.com/nateg101/Music_Makers) | Final Project at Makers - A Digital Audio Workstation where users can create multi-instrument tracks save and share them. | A full single page app built in React | A two week project with four team members working in an agile fashion from start to finish. | Travis CI, Jest/Enzyme for Unit Testing, Cypress for E2E / Feature testing, ESLint for linting
+[Acebook](https://github.com/Yasmineral/acebook-short-ferret-midnight)| Acebook was a two week group challenge to recreate Facebook, working with strict client requirements that often changed. | Backend: Rails; Frontend: JavaScript, Bootstrap; Database: Active Record, PostgreSQL	Cypress | A team of six members used agile processes in two day sprints with a set Scrum master each day to produce our first Rails app. | Travis CI, RSpec for unit testing, Capybara for feature testing, RuboCop and Codacy for linting and code quality.
 
 ## <a name="education">Education</a>
 
@@ -68,7 +77,7 @@ Music Technology BA - Upper second-class honours.
 ## <a name="interests">Interests</a>
 
  - **Music** - I play a very active role in my band, [Finish Flag](https://bit.ly/2VYK3MR), not only do I play bass but I also record and mix all of our music on Logic Pro X.
- - **Reading** - My 3 favourite books are *American Psycho*, *The Shining*, *So You've Been Publicly Shamed*
+ - **Reading** - I am unable to walk past a Waterstones without stopping in and purchasing a new book. Goodread lists my favourite genres as Paranormal/Horror and Suspense/Thriller.
  - **Running**
  - **Mindfulness**
  
