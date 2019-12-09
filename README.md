@@ -11,9 +11,9 @@
 
 </div>
 
-I am a fullstack developer who has have just completed a 16 week course at one of the most selective dev bootcamps in London. I still remember the first time I opened inspect on a website and was blown away by how those lines of code could create a fully interactive wepage. Since then I vowed that I would strive to understand how these languages work and ultimately be able to create these type of sites/apps to a high standard for myself. 
+I am a fullstack developer who has just completed a 16 week course at one of the most selective dev bootcamps in London. I still remember the first time I opened inspect on a website and was blown away by how those lines of code could create a fully interactive wepage. Since then I vowed that I would strive to understand how these languages work and ultimately be able to create these type of sites/apps to a high standard for myself. 
 
-This keen desire to work as a software developer is backed by a 5 year career in Technical Support, where I have worked for one of the largest companies worldwide, **Apple**. Having to work in this fast paced environment, where I served and solved clients issues in a 10 minute face-to-face consultation, meant I had to develop quick coherent troubleshooting steps and processes to save time whilst ensuring the clients issue was solved. This methodical approach to issues, as well as strong problem solving skills, has really helped in my transition to software developer especially when planning and breaking down a problem to find a program to solve it.
+This keen desire to work as a software developer is backed by a 5 year career in Technical Support, where I have worked for one of the largest companies worldwide, **Apple**. Having to work in this fast paced environment, where I served and solved clients issues in a 10 minute face-to-face consultation, meant I had to develop quick coherent troubleshooting steps and processes to save time whilst ensuring the clients issue was solved. This methodical approach to issues, as well as strong problem solving skills, has really helped in my transition to software developer especially when planning and breaking down a problem to create a program to solve it.
 
 Recently however I have been seeking a fresh start and to follow a career path I can develop and grow in and one I have a keen enthausiam for. This all lead me to joining and graduating [Makers Academy](https://github.com/makersacademy). Here I was able to hone and make use of the skills I have developed in my previous working experience to grow from an interested amateur coder into a competent and confident fullstack developer eager to embark on this new career path.
 
@@ -28,7 +28,7 @@ Recently however I have been seeking a fresh start and to follow a career path I
 * Consistent TDD and debugging processes.
 
 ### Problem solving/troubleshooting
-* My background in Technical Support has provided me with strong troubleshooting and problem-solving skills. I love being provided with a problem/issue and finding ways to solve them. I believe this is key when it comes to coding and web development especially when TDD and during planning. It allows you to take a step back from the task or issue (especially when things are going wrong), find a fresh approach and apply critical thinking to provide a solution.
+* My background in Technical Support has provided me with strong troubleshooting and problem-solving skills. I love being provided with a problem/issue and finding ways to solve them. I believe this is key when it comes to coding and web development especially when TDD'ing and during planning. It allows you to take a step back from the task or issue (especially when things are going wrong), find a fresh approach and apply critical thinking to provide a solution.
 
 ### Attention to detail
 * Whether this be when playing/recording music or coding, I have developed a keen eye for detail. This helps when looking at the bigger picture and understanding how each part of the script should work together and also when debugging software.
@@ -66,7 +66,7 @@ Music Technology BA - Upper second-class honours.
 *Technical Support Agent*  
 - Worked with a small team of technical support and customer care agents. I provided worldwide support to distributors, dealers and customers.
 - Had to troubleshoot customer queries through asking a series of open-ended and close-ended questions to understand the exact issue the user was experiencing. Whether this was a learning experience or a complex network related issue.
-- Solely maintained the support site HTML/CSS/Javascript scripts. Regularly updating themes and improving user experience/journey by streamlining the user interface.
+- Solely maintained the support site HTML/CSS/Javascript scripts. Regularly updating themes and improving user experience/journey by streamlining the user interface and journey.
 
 **Apple Inc** (July 2014 to July 2016)   
 *Genius*  
