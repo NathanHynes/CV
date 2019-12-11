@@ -11,7 +11,7 @@
 
 </div>
 
-I am a fullstack developer who has just completed a course at one of the most selective dev bootcamps in London. I still remember the first time I opened inspect on a website and was blown away by how those lines of code could create a fully interactive wepage. Since then I vowed that I would strive to understand how these languages work and ultimately be able to create these type of sites/apps to a high standard for myself. 
+I am a fullstack developer who has just completed a course at one of the most selective dev bootcamps in London. I still remember the first time I opened inspect on a website and was blown away by how those lines of code could create a fully interactive wepage. Since then I vowed that I would strive to understand how these languages work and ultimately be able to create sites and apps to a high standard for myself. 
 
 This keen desire to work as a software developer is backed by a 5 year career in Technical Support, where I have worked for one of the largest companies worldwide, **Apple**. Having to work in this fast paced environment, where I served and solved clients issues in a 10 minute face-to-face consultation, meant I had to develop quick coherent troubleshooting steps and processes to save time whilst ensuring the clients issue was solved. This methodical approach to issues, as well as strong problem solving skills, has really helped in my transition to software developer especially when planning and breaking down a problem to create a program to solve it.
 
