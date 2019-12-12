@@ -40,8 +40,9 @@ This all lead me to joining and graduating from [Makers Academy](https://github.
 
 Project Name | Description | Tech Used | Process | Test Suites/CIs/CDs Employed
 --- | --- | --- | --- | ---
-[Synesthesia-Beatz](https://github.com/nateg101/Music_Makers) | Final Project at Makers - A Digital Audio Workstation where users can create multi-instrument tracks save and share them. | A full single page app built in React | A two week project with four team members working in an agile fashion from start to finish. | Travis CI, Jest/Enzyme for Unit Testing, Cypress for E2E / Feature testing, ESLint for linting
+[Synesthesia-Beatz](https://github.com/nateg101/Music_Makers) | Final Project at Makers - A Digital Audio Workstation where users can create multi-instrument tracks save and share them. | A full single page app built in React | A two week project with four team members working in an agile fashion from start to finish. | Travis CI, Jest/Enzyme for Unit Testing, Cypress for E2E / Feature testing, ESLint for linting.
 [Acebook](https://github.com/Yasmineral/acebook-short-ferret-midnight)| Acebook was a two week group challenge to recreate Facebook, working with strict client requirements that often changed. | Backend: Rails; Frontend: JavaScript, Bootstrap; Database: Active Record, PostgreSQL | A team of six members used agile processes in two day sprints with a set Scrum master each day to produce our first Rails app. | Travis CI, RSpec for unit testing, Capybara for feature testing, RuboCop and Codacy for linting and code quality.
+[Bowling Challenge](https://github.com/NathanHynes/bowling-challenge) | This was our first weekend challenge after moving from Ruby to Javscript. Tasked with creating the logic and simple interface to score a tenpin bowling game. | Javascript, JQuery, | Worked solo TDD-ing and methodically breaking down the aspects of the game and scoring complexities to build clean, simple code. | Travis CI, Jasmine for Unit Testing, Karma for a test server and code coverage, ESLint for linting.
 
 ## <a name="education">Education</a>
 
