@@ -6,6 +6,7 @@
 [Current Projects](#projects) | 
 [Education](#education) | 
 [Experience](#experience) | 
+[Volunteering](#volunteering) | 
 [Interests](#interests) | 
 [Links](#links) | 
 
@@ -75,8 +76,18 @@ Music Technology BA - Upper second-class honours.
 - Presenting an expert knowledge on a range of products and providing customers with a number of different solutions for their issues.
 - Had to be able to communicate technical information effectively to others and teach customers how to use a range of different products and software.
 
-## <a name="interests">Interests</a>
+## <a name="volunteering">Volunteering</a>
 
+**Code Your Future** (November 2019 to present)
+*Mentor* 
+ - Currently volunteering at [Code Your Future](https://codeyourfuture.io/). The charity focus on supporting refugees and disadvantaged individuals with the dream of becoming developers.
+ - Having just completed a coding bootcamp I really wanted to give something back and help people join a community that has helped me out so much. What better way to do this than to help individuals, who are not as fortunate as me, gain and learn skills to further themselves!
+ - The course the students undertake is focused on learning key skills in HTML/CSS, Javascript, Node.js and React.
+ - I help out as a mentor offering advise and answering any questions the students may have. 
+ - Also help develop soft skills such as Agile processes and pair programming.
+ - 
+
+## <a name="interests">Interests</a>
  - **Music** - I play a very active role in my band, [Finish Flag](https://bit.ly/2VYK3MR), not only do I play bass but I also record and mix all of our music on Logic Pro X.
  - **Reading** - I am unable to walk past a Waterstones without stopping in and purchasing a new book. Goodread lists my favourite genres as Paranormal/Horror and Suspense/Thriller.
  - **Running**
@@ -84,4 +95,4 @@ Music Technology BA - Upper second-class honours.
  
  ## <a name="links">Links</a>
  
- <div align="center"><a href="https://www.linkedin.com/in/nathan-hynes-57b26760"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a><a href="https://bit.ly/2VYK3MR"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" alt="Spotify" hspace="50" height="42" width="42"</a></div>
+ <div align="center"><a href="https://www.linkedin.com/in/nathan-hynes-57b26760"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a><a href="https://spoti.fi/38u5uLS"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" alt="Spotify" hspace="50" height="42" width="42"</a></div>
