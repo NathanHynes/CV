@@ -79,13 +79,13 @@ Music Technology BA - Upper second-class honours.
 ## <a name="volunteering">Volunteering</a>
 
 **Code Your Future** (November 2019 to present)
+
 *Mentor* 
  - Currently volunteering at [Code Your Future](https://codeyourfuture.io/). The charity focus on supporting refugees and disadvantaged individuals with the dream of becoming developers.
  - Having just completed a coding bootcamp I really wanted to give something back and help people join a community that has helped me out so much. What better way to do this than to help individuals, who are not as fortunate as me, gain and learn skills to further themselves!
  - The course the students undertake is focused on learning key skills in HTML/CSS, Javascript, Node.js and React.
  - I help out as a mentor offering advise and answering any questions the students may have. 
  - Also help develop soft skills such as Agile processes and pair programming.
- - 
 
 ## <a name="interests">Interests</a>
  - **Music** - I play a very active role in my band, [Finish Flag](https://bit.ly/2VYK3MR), not only do I play bass but I also record and mix all of our music on Logic Pro X.
