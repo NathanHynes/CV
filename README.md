@@ -3,7 +3,7 @@
 <div align="center">
 
 [Skills](#skills) | 
-[Current Projects](#projects) | 
+[Projects](#projects) | 
 [Education](#education) | 
 [Experience](#experience) | 
 [Volunteering](#volunteering) | 
@@ -37,7 +37,7 @@ This all lead me to joining and graduating from [Makers Academy](https://github.
 ### Excellent communicator
 * In both my previous jobs I have had to ensure that I have very strong written and verbal communication skills. This is because I often have to simplify technical and complex information to make it more accessible for end users and clients. This has helped when writing code as I have been able to describe clearly what I am doing and how my program works.Furthermore it has been invaluable while pairing and during group projects to ensure a strong working dynamic.
 
-## <a name="projects">Current Projects</a>
+## <a name="projects">Projects</a>
 
 Project Name | Description | Tech Used | Process | Test Suites/CIs/CDs Employed
 --- | --- | --- | --- | ---
